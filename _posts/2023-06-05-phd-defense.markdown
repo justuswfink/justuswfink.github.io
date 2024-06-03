@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Successful PhD defense with lot's of help from the sunshine department."
-date:   2024-06-04 08:00:00 -0500
+date:   2023-06-05 08:00:00 -0500
 categories: jekyll update
 ---
 
