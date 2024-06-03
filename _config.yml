@@ -22,7 +22,6 @@ title: Justus Wilhelm Fink
 email: justus.fink@rutgers.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Post-doctoral fellow.
-  # My nickname in kindergarten was 'couscous'. It fell out of fashion but still gives an idea how my name is pronounced. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justuswfink
