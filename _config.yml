@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Justus Wilhelm Fink
-email: justus.fink@rutgers.edu
+email: justus.fink@caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Post-doctoral fellow.
+  HFSP Long-Term Postdoctoral Fellow at the Orphanlab.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justuswfink

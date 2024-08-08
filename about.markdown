@@ -1,25 +1,32 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Hi there, my name is Justus and I am currently a post-doctoral fellow  with Michael Manhart at the [Quantitative Evolutionary Microbiology lab](https://qevomicrolab.org) at Rutgers University. I am a mathematician by training and first came into contact with ecology through an undergraduate research internship, where I helped to derive equations that describe how a population of beavers moves along a river (the internship was in Canada).  It's during my master's thesis  that I discovered my interest for the evolutionary process, working out the conditions for mutant invasion under phenotypic heterogeneity.
-<!-- the convergence of stochastic partial differential equations --> 
-<!-- that working out the stochastic invasion of a mutant genotype into a wild-type population with phenotypic heterogeneity. --> 
-For my PhD, I chose to  work on empirical variation of microbial growth traits in the group of  Michael Manhart, then a junior group hosted within the [Theoretical Biology group](https://tb.ethz.ch) at ETH Zurich.
-<!-- to figure out the variation in lag time, growth rate and biomass yield that mutation supplies and how selection acts on these traits. --> 
+Hi there, my name is Justus and I am currently a post-doc with Victoria Orphan under the HFSP Long-Term Postdoctoral Fellowship. 
+I am fascinated by the metabolic capacities of microbes, their ability to evolve and the question how they will respond to human pollution and perturbation of nature. 
+At the Orphanlab, I study the evolution of anaerobic methane degradation using a combination of theory and experiments, focusing particularly on the role of nutrient limitation.
+I am a mathematician by training and hold a PhD from ETH Zurich, where I studied the evolution of microbial growth at low nutrient concentrations under the supervision of Michael Manhart. 
 
-In the second half of my PhD, I became increasingly interested in the impact of microbial communities on biogeochemical cycling and bioremidiation, thanks to collaborating with Noelle Held (now [at USC](https://proteoceanlab.github.io/about.html))  and lot's of time  spent with the [Microbial System Ecology group](https://mse.ethz.ch/) and the [UMIK department](https://www.eawag.ch/en/department/umik/) at Eawag. I am fascinated by the metabolic capacities of microbes, their ability to evolve and the question how they will respond to human pollution and perturbation of nature. 
-<!-- whether these microbes will adapt fast enough to help re-balance the resource cycles. -->
+<!-- previously and first came into contact with ecology through an undergraduate research internship, where I helped to derive equations that describe how a population of beavers moves along a river (the internship was in Canada).  It's during my master's thesis  that I discovered my interest for the evolutionary process, working out the conditions for mutant invasion under phenotypic heterogeneity. -->
+<!-- <!-1- the convergence of stochastic partial differential equations -1-> --> 
+<!-- <!-1- that working out the stochastic invasion of a mutant genotype into a wild-type population with phenotypic heterogeneity. -1-> --> 
+<!-- For my PhD, I chose to  work on empirical variation of microbial growth traits in the group of  Michael Manhart, then a junior group hosted within the [Theoretical Biology group](https://tb.ethz.ch) at ETH Zurich. -->
+<!-- <!-1- to figure out the variation in lag time, growth rate and biomass yield that mutation supplies and how selection acts on these traits. -1-> --> 
+
+<!-- In the second half of my PhD, I became increasingly interested in the impact of microbial communities on biogeochemical cycling and bioremidiation, thanks to collaborating with Noelle Held (now [at USC](https://proteoceanlab.github.io/about.html))  and lot's of time  spent with the [Microbial System Ecology group](https://mse.ethz.ch/) and the [UMIK department](https://www.eawag.ch/en/department/umik/) at Eawag. --> 
+<!-- <!-1- whether these microbes will adapt fast enough to help re-balance the resource cycles. -1-> -->
 
 \\
 \\
 
 **EMPLOYMENT**
 
+**07/2024-, Post-doctoral fellow, California Institute of Technology**\\
+Advisor: Prof. Dr. Victoria Orphan
 
-**01/2024, Post-doctoral fellow, Rutgers University**\\
+**01/2024 - 06/2024, Post-doctoral fellow, Rutgers University**\\
 Advisor: Prof. Dr. Michael Manhart
 
 \\
