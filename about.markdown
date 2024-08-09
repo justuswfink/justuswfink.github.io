@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-Hi there, my name is Justus and I am a HFSP Long-Term Postdoctoral Fellow at the California Institute of Technology under the supervision of [Victoria Orphan](https://orphanlab.com). 
+Hi there, my name is Justus and I am a post-doc in the lab of [Victoria Orphan](https://orphanlab.caltech.edu/) at the California Institute of Technology. 
 I am fascinated by the metabolic capacities of microbes, their ability to evolve and the question how they will respond to human pollution and perturbation of nature. 
 At the Orphan Lab, I study the evolution of anaerobic methane degradation using a combination of theory and experiments, focusing particularly on the role of nutrient limitation.
-I am a mathematician by training and hold a PhD from ETH Zurich, where I studied the evolution of microbial growth at low nutrient concentrations under the supervision of Michael Manhart. 
+I am a mathematician by training and hold a PhD from ETH Zurich, where I studied the evolution of microbial growth at low nutrient concentrations under the supervision of [Michael Manhart](https://qevomicrolab.org).
 
 <!-- previously and first came into contact with ecology through an undergraduate research internship, where I helped to derive equations that describe how a population of beavers moves along a river (the internship was in Canada).  It's during my master's thesis  that I discovered my interest for the evolutionary process, working out the conditions for mutant invasion under phenotypic heterogeneity. -->
 <!-- <!-1- the convergence of stochastic partial differential equations -1-> --> 
